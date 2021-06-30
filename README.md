@@ -30,8 +30,6 @@ Users should be able to:
 
 ![](./images/screenshot.jpg)
 
-**Note: Delete this note and the paragraphs above when you add your screenshot. If you prefer not to add a screenshot, feel free to remove this entire section.**
-
 ### Links
 
 - Solution URL: [https://github.com/aimdexter/stats-preview-card-component-main]
@@ -44,7 +42,6 @@ Users should be able to:
 - Semantic HTML5 markup
 - CSS custom properties
 - Flexbox
-- CSS Grid
 - Mobile-first workflow
 
 ## Author
@@ -56,5 +53,3 @@ Users should be able to:
 
   Challenge by <a href="https://www.frontendmentor.io?ref=challenge" target="_blank">Frontend Mentor</a>.
   Coded by <a href="https://github.com/aimdexter/">AimDexter</a>.
-
-**Note: Delete this note and edit this section's content as necessary. If you completed this challenge by yourself, feel free to delete this section entirely.**
