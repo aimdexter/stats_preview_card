@@ -67,13 +67,14 @@ body{
     font-size: 23px;
 }
 .stats p{
-    font-weight: 4ssss00;
+    font-weight: 400;
     color : hsla(0, 0%, 100%, 0.6);
     font-size: 13px;
     margin: 0.3rem 0rem 0rem 0rem;
 }
 .attribution { 
-    font-size: 11px; text-align: center; 
+    font-size: 11px; 
+    text-align: center; 
 }
 .attribution a { 
     color: hsl(228, 45%, 44%); 
@@ -92,33 +93,49 @@ body{
     .card{
         display: flex;
         flex-direction: row;
-        width : 60%;
+        margin: 16rem 16rem 0rem 25rem;
+        width :60%;
+        font-family: 'Inter', sans-serif;
+        border-radius: 1rem;
+        padding: 0rem;
     }
     .card-img{
      order: 1;
      width: 50%;
+     border-radius: 0rem 1rem 1rem 0rem;
     }
     .card-content{
     width: 50%;
-    }
-    .card-title{
-        
+    text-align: left;
+    padding: 0rem 2rem;
     }
     .card-title p{
-    }
-    .card-title span{
-    }
-    .card-description{
+        font-size: 36px;
+        font-weight: 700;
+        padding: 1rem 0rem 0rem 1rem ;
     }
     .card-description p{
+        padding: 1rem 4rem 1rem 1rem;
+        font-weight: 400;
     }
     .stats{
+        display: flex;
+        flex-direction: row;
+        margin: 2rem 0rem 0rem 0rem;
+        font-family: 'Inter', sans-serif;
     }
     .stats div{
+        padding: 0rem;
+        padding: 0rem 3rem 0rem 1rem;
+        font-weight: 400;
+        font-family: 'Inter', sans-serif;
+    
     }
     .stats span{
+
     }
     .stats p{
+
     }
     .attribution {
     }
