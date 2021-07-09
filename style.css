@@ -93,7 +93,7 @@ body{
     .card{
         display: flex;
         flex-direction: row;
-        margin: 16rem auto 0rem auto;
+        margin: 16rem auto auto auto;
         width :60%;
         font-family: 'Inter', sans-serif;
         border-radius: 1rem;
@@ -131,16 +131,5 @@ body{
         font-family: 'Inter', sans-serif;
     
     }
-    /* .stats span{
-
-    }
-    .stats p{
-
-    }
-    .attribution {
-    }
-    .attribution a { 
-    } */
-
 }
     
