@@ -93,7 +93,7 @@ body{
     .card{
         display: flex;
         flex-direction: row;
-        margin: 16rem 16rem 0rem 25rem;
+        margin: 16rem auto 0rem auto;
         width :60%;
         font-family: 'Inter', sans-serif;
         border-radius: 1rem;
