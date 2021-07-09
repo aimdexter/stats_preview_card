@@ -34,7 +34,7 @@ Users should be able to:
 
 - Desktop view :
 
-![](./images/Desktop preview.png)
+![](./images/Desktop_preview.jpg)
 
 
 ### Links
