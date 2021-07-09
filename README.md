@@ -28,7 +28,14 @@ Users should be able to:
 
 ### Screenshot
 
+- Mobile view :
+
 ![](./images/screenshot.jpg)
+
+- Desktop view :
+
+![](./images/Desktop preview.png)
+
 
 ### Links
 
